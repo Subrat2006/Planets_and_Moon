@@ -24,4 +24,4 @@ Before you all make your own project, just have a look at the output of the same
 <img src = "3.png"></img>
 
 You can see the Output in this GIF File:
-![](Test.GIF)
+![](Test)
